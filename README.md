@@ -25,7 +25,7 @@
   <h3 align="center">spark</h3>
 
   <p align="center">
-    bypassed byfron executor, works on any device not including ios
+    bypassed byfron executor,sadly has false positive, works on any device not including ios
     <br />
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
